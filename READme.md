@@ -32,3 +32,12 @@ Ofentse Tshepe
 Zach Meltzer 
 
 Elvis Sebatane
+
+Requirements 
+---
+
+MySQL
+
+Java 8 or later
+
+Glass Fish Sever Emulator 
