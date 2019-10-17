@@ -1,0 +1,29 @@
+database=animals
+5
+6
+
+dogs(name, age, colour)
+(Harry, 17, blue)
+(Harry, 17, blue)
+(Harry, 17, blue)
+(Harry, 17, black)
+
+cats(name, age, colour)
+(Harry, 17, blue)
+(Harry, 17, blue)
+(Harry, 17, blue)
+(Harry, 17, black)
+
+sheep(name, age, colour)
+(Harry, 17, blue)
+(Harry, 17, blue)
+(Harry, 17, blue)
+(Harry, 17, black)
+
+questions
+("How is blue?";"Select * from sheep;";"A";"2")
+("How is blue?";"Select * from sheep;";"A";"2")
+("How is blue?";"Select * from sheep;";"A";"2")
+("How is blue?";"Select * from sheep;";"A";"2")
+("How is blue?";"Select * from sheep;";"A";"2")
+("How is blue?";"Select * from sheep;";"A";"2")

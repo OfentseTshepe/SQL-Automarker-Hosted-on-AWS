@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../resources/uct_illustration.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Verdana;
+    background-attachment: fixed;
+}
+.container {
+    margin-top:30px;
+}
+
+h1, h2, h3, h4, h6 {
+    font-family: 'Verdana';
+    font-weight:500;
+}
+p {
+    font-family: 'Verdana';
+    font-size: xx-small;
+}
+h5
+{
+    font-family: 'Courier New';
+    
+}
+h5#correct
+{
+    color: green;
+}
+h5#incorrect
+{
+    color: red;
+}
+.fancyTab {
+    text-align: center;
+    padding:15px 0;
+    background-color: #eee;
+    box-shadow: 0 0 0 1px #ddd;
+    top:15px;	
+    transition: top .2s;
+}
+
+.whiteBlock {
+    display:none;
+}
+
+.fancyTab.active .whiteBlock {
+    display:block;
+    height:2px;
+    bottom:-2px;
+    background-color:#fff;
+    width:99%;
+    position:absolute;
+    z-index:1;
+}
+
+
+
+.fancyTabContent {
+    border-color: transparent;
+    box-shadow: 0 -2px 0 -1px #fff, 0 0 0 1px #ddd;
+    padding: 30px 15px 15px;
+    position:relative;
+    background-color:#fff;
+}
+
+
+body {
+    font: 14px/1 Verdana;
+}
+
+.button#b1 {
+    width: 300px;
+    background-color: #2672ec;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button#b2 {
+    width: 100px;
+    background-color: #2672ec;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

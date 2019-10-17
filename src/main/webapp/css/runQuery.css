@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../resources/uct_illustration.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Verdana;
+    background-attachment: fixed;
+}
+.container {
+    margin-top:30px;
+}
+
+table tr:nth-child(even) {
+    background-color: #eee;
+}
+table tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+* {
+    box-sizing: border-box;
+}
+body {
+    font: 14px/1 Verdana;
+}
+table {
+    font-family: 'Verdana';
+    border: 1px solid #ccc;
+    border-collapse:collapse; 
+    table-layout:fixed; 
+    width:100%;
+}
+table td {
+     font-size: x-small;
+    padding-left: 5px;
+    border: 1px solid #ccc;
+    width:100px; 
+    word-wrap:break-word;
+}
+table th{
+     font-size: xx-small;
+     font-weight: 600;
+}
+
+table tr:nth-child(even) {
+    background-color: #eee;
+}
+table tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+.fancyTabContent {
+    border-color: transparent;
+    box-shadow: 0 -2px 0 -1px #fff, 0 0 0 1px #ddd;
+    padding: 30px 15px 15px;
+    position:relative;
+    background-color:#fff;
+}
+
+.fancyTab.active {
+    background: #fff;
+    box-shadow: 1px 1px 0 1px #fff, 0 0px 0 1px #ddd, -1px 1px 0 0px #ddd inset;
+    padding-bottom:30px;
+}
+
+h6{
+    font: Verdana;
+    size: 20px;
+}
+
+h4{
+    font: Verdana;
+    size: 40px;
+}
+
+
+table#t01 th {
+
+    background-color: black;
+    color: white;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    font: 14px/1 Verdana;
+}
+
+p { word-break: keep-all }
+
+.button#b2 {
+    width: 100px;
+    background-color: #2672ec;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
