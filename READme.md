@@ -1,9 +1,9 @@
-#SQL Automarker
-This project aimed to create a system to assign and automatically mark SQL database assignments. This
+SQL Automarker
+===
 
+This project aimed to create a system to assign and automatically mark SQL database assignments. This
 system was created to enhance the University of Cape Town’s Computer Science department’s assign-
 ment marking. There already exists an automatic marker for code (Java, Python, etc.) yet assignments
-
 that involve SQL are currently marked manually, which often takes up an unnecessary amount of time
 and effort.
 The purpose of this system is to reduce the need for manual marking of assignments – which are
