@@ -41,3 +41,5 @@ MySQL
 Java 8 or later
 
 Glass Fish Sever Emulator 
+
+Suggest you us an IDE (Net Beeans is the prefferd choice)
