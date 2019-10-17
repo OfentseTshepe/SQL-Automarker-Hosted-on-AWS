@@ -23,8 +23,12 @@ and have it reflect in the system’s interface. Furthermore, the decision was t
 MySQL server, hosted by Amazon’s Web Service in order to allow for easy access to the raw data and
 information in order to easily add to/ remove from the necessary tables and databases.
 
+
+
 Authors
 ---
 Ofentse Tshepe
+
 Zach Meltzer 
+
 Elvis Sebatane
