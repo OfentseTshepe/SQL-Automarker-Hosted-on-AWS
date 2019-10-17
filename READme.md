@@ -22,3 +22,9 @@ system has been set up in such a way that s/he would be able to import the datas
 and have it reflect in the system’s interface. Furthermore, the decision was taken to create an online
 MySQL server, hosted by Amazon’s Web Service in order to allow for easy access to the raw data and
 information in order to easily add to/ remove from the necessary tables and databases.
+
+Authors
+---
+Ofentse Tshepe
+Zach Meltzer 
+Elvis Sebatane
